@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SportQ</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_textView">Time</string>
+    <string name="time_scoreView">Score:</string>
+    <string name="incorrect_answer">Incorrect!</string>
+
+    <string name="dialog_1">Dialog 1</string>
+    <string name="dialog_2">Dialog 2</string>
+    <string name="message_text">Text of your message</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maybe">Maybe</string>
+    <string name="start">Go to menu</string>
+</resources>
